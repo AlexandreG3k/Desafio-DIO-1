@@ -290,6 +290,6 @@ Ambas são ferramentas de ponta para auditoria de autenticação paralela. O **M
 
 <br>
 
-Desenvolvido com 🛡️ por **BRUMASEC** para a comunidade **DIO** • *Hack The Planet, Ethically.*
+Desenvolvido com 🛡️ por **Alexandre** para a comunidade **DIO** • *Hack The Planet, Ethically.*
 
 </div>
