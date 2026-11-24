@@ -7,7 +7,7 @@
 [![Lab](https://img.shields.io/badge/Lab-Metasploitable%202-orange?style=for-the-badge&logo=virtualbox&logoColor=white)](#)
 [![Field](https://img.shields.io/badge/Domain-Red%20Team%20%7C%20Pentest-black?style=for-the-badge&logo=hackthebox&logoColor=white)](#)
 [![Challenge](https://img.shields.io/badge/DIO-Bootcamp%20Challenge-blueviolet?style=for-the-badge)](https://www.dio.me/)
-[![Maintained](https://img.shields.io/badge/Author-BRUMASEC-blue?style=for-the-badge)](#)
+[![Maintained](https://img.shields.io/badge/Author-Alexandre-blue?style=for-the-badge)](#)
 
 <br>
 
